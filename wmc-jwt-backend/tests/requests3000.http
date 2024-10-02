@@ -1,0 +1,5 @@
+GET http://localhost:3000/posts
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikt5bGUiLCJpYXQiOjE3MjcxMTc0ODUsImV4cCI6MTcyNzExNzUxNX0.-I2lP3-n6KwxKJtPbaR6G7ng3cK7vbOKIfU8uzcLRYc
+
+###
+GET http://localhost:3000/posts
